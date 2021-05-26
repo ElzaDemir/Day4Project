@@ -1,1 +1,3 @@
-Thisis the file directly from github.com to simulate mt co-worker these changes to this repo so I can pull down the code he has added
+This is the file directly from github.com to simulate mt co-worker these changes to this repo so I can pull down the code he has added
+
+This is my co-worker adding changes and pushing to the remote
